@@ -1,0 +1,19 @@
+.homepage {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background-color: black;
+    z-index: 1;
+    /* opacity: 0.8; */
+  }
+  
+  .homepage button {
+    margin-top: 20%;
+  
+  }
+  
+  
+  
