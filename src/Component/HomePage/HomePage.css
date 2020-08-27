@@ -5,7 +5,6 @@
     top: 0;
     left: 0;
     bottom: 0;
-    background-color: black;
     z-index: 1;
     /* opacity: 0.8; */
   }
@@ -14,6 +13,3 @@
     margin-top: 20%;
   
   }
-  
-  
-  

@@ -1,0 +1,25 @@
+.login-form {
+    width: 100vw;
+    height: 100vw;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 5;
+    background: teal;
+    /* opacity: 0.8; */
+  }
+
+
+  .login-form form{
+      display: flex;
+      flex-direction: column;
+      align-content: center;
+      margin-top: 20%;
+  }
+  
+  
+  
+  
